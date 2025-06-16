@@ -1,18 +1,27 @@
-## Getting Started
+## Desafio Controle de Fluxo com Exception
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
+Este repositório apresenta a minha solucção para o desafio "Controle de Fluxo".
 
-## Folder Structure
+Objetivo foi aplicar o conceito de controle de fluxo e exception.
 
-The workspace contains two folders by default, where:
+##
 
-- `src`: the folder to maintain sources
-- `lib`: the folder to maintain dependencies
+- Controle de Fluxo em funcionamento.
+![image](https://github.com/user-attachments/assets/c42e143c-e827-4f06-937d-09041d3812ac)
 
-Meanwhile, the compiled output files will be generated in the `bin` folder by default.
 
-> If you want to customize the folder structure, open `.vscode/settings.json` and update the related settings there.
+- Exception em funcionamento.
+![image](https://github.com/user-attachments/assets/aa3ec17a-c529-43e6-b3ce-15bb1f79caa5)
 
-## Dependency Management
+## Estrutura do Projeto
 
-The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
+O projeto foi dividido em 2 classes.
+
+*Contador:* que contem toda a codificação do projeto.
+
+*ParametrosInvalidosException:* Que representará a exceção de negócio do Sistema.
+
+
+## Link para o desafio
+
+https://github.com/digitalinnovationone/trilha-java-basico/tree/main/desafios/controle-fluxo
