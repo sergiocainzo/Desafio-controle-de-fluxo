@@ -35,7 +35,7 @@ public class Contador {
             throw new ParametrosInvalidosException("O segundo parâmetro deve ser maior que o primeiro.");
         } else {
             // Mensagem de Sucesso.
-            System.out.println("Parâmetros passados com sucesso.");
+            System.out.println("Parâmetros passados com sucesso.\n");
         }
 
         // Realizando o FOR para imprimir os números com base na variável contagem.
@@ -43,7 +43,7 @@ public class Contador {
 
         // For funcional para a variável primária menor que a secundária
         for (int i = 0; i < contagem; i++) {
-            System.out.printf("imprimindo o número: %d.\n", i+1);
+            System.out.printf("Imprimindo o número: %d.\n", i+1);
         }
 
     }
